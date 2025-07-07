@@ -1,0 +1,6 @@
+numpy
+pandas
+Levenshtein
+sklearn.cluster
+pathlib
+tkinter
