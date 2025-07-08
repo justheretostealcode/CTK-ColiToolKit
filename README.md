@@ -42,7 +42,7 @@ Please make sure that you have a working Python installation. The requirements a
 
 ### Input format
 
-The input .csv files were based on the output format of Benchling. Examples are provided in the clustering_sample_data folder. 
+The input .csv files were based on the output format of Benchling. Examples are provided in the `clustering_sample_data` folder. 
 The format uses three columns: **Name**, **Author**, **Sequence**
 These are the name of the DNA fragment, the author/owner of the DNA sequences, and sequence in question, respectively. 
 
