@@ -8,11 +8,18 @@ This repository provides the code and data corresponding to the paper [**The Col
 3. Centre for Synthetic Biology, TU Darmstadt, Darmstadt 64283, Germany \
 *Corresponding author
 
+
 ## Overview
 The repository is separated into three main parts:
 1. Flow cytometry data
 2. Clustering of *de novo* DNA fragments 
-2. Flow cytometry analysis and model calibration
+3. Flow cytometry analysis and model calibration
+
+## Abstract
+Genetic circuits are a cornerstone of synthetic biology, enabling programmable control of cellular behavior for applications in health, sustainability, and biotechnology. While Genetic Design Automation (GDA) tools have optimized and streamlined the design of such circuits, rapid and efficient assembly of DNA remains a bottleneck in the DBTL cycle. Here we present the Coli Toolkit (CTK), a modular Golden Gate-based cloning system, adapted from the Yeast Toolkit (YTK) for use in Escherichia coli. The CTK expands on the original YTK architecture by introducing a more flexible control of transcription and translation through subdividing the former promoter part into subparts; promoter, insulating ribozyme, and ribosome binding site (RBS). We provide a range of basic parts that enable the assembly of a wide range of constructs, as well as characterization data for all constitutive and inducible promoters provided. Additionally, we provide characterization data for all 20 NOT gates from the Cello library, and we provide the NOT gates as preassembled basic parts, which enables rapid cloning of larger genetic circuits. With this toolkit, we leverage the strengths of the YTK architecture to enable rapid and high-efficiency assembly of genetic circuits in E. coli, filling a key gap in the infrastructure of bacterial synthetic biology.
+
+![Abstract_Figure.png](_readme_figures/Abstract_Figure.png)
+_Abstract Figure_
 
 ## Flow cytometry data
 The flow cytometry data presented in the paper and used for model calibration can be found in the directory `data`. `data` itselfis separated into a directory per replicate, while each replicate directory features the data for all constructs under characterized experimentally, divided according to their function. 
