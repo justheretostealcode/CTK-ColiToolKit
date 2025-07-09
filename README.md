@@ -3,9 +3,9 @@
 This repository provides the code and data corresponding to the paper [**The Coli Toolkit (CTK): An extension of the modular Yeast Toolkit to the E. coli chassis**]()
  by **Jacob Mejlsted<sup>1,2,3</sup>, Erik Kubaczka<sup>1,3</sup>, Sebastian Wirth<sup>1,3</sup>, and Heinz Koeppl<sup>1,3***</sup>, currently available as preprint on bioRxiv.
 
-1. Department of Electrical Engineering and Information Technology, TU Darmstadt, Darmstadt 64283, Germany
+1. Centre for Synthetic Biology, TU Darmstadt, Darmstadt 64283, Germany
 2. Graduate School Life Science Engineering, TU Darmstadt, Darmstadt 64283, Germany
-3. Centre for Synthetic Biology, TU Darmstadt, Darmstadt 64283, Germany \
+3. Department of Electrical Engineering and Information Technology, TU Darmstadt, Darmstadt 64283, Germany \
 *Corresponding author
 
 
@@ -112,6 +112,6 @@ If you use this code or the data provided here, please cite the corresponding pr
 The code and the data is available under an MIT License. Please cite the corresponding preprint if you use our code and/or data.
 
 ## Funding & Acknowledgments
-The authors acknowledge Anika Kofod Petersen for her work on the prototype of the de novo synthesis clustering pipeline. 
+The authors acknowledge Anika Kofod Petersen for her work on the prototype of the _de novo_ synthesis clustering pipeline. 
 The work was made possible with the support of a scholarship from the German Academic Exchange Service (DAAD), project number 91877921 to J.M. E.K. was supported by ERC-PoC grant PLATE (101082333). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the funding agencies.
 We acknowledge the use of Python and the aforementioned Python packages.
