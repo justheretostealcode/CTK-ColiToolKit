@@ -1,6 +1,7 @@
-# The Coli Toolkit (CTK): An extension of the modular Yeast Toolkit to the _E. coli_ chassis
+# The Coli Toolkit (CTK): An extension of the modular Yeast Toolkit for use in _E. coli_
 
-This repository provides the code and data corresponding to the paper [**The Coli Toolkit (CTK): An extension of the modular Yeast Toolkit to the E. coli chassis**]()
+
+This repository provides the code and data corresponding to the paper [**The Coli Toolkit (CTK): An extension of the modular Yeast Toolkit to the E. coli chassis**](https://doi.org/10.1101/2025.07.09.663901)
  by **Jacob Mejlsted<sup>1,2,3</sup>, Erik Kubaczka<sup>1,3</sup>, Sebastian Wirth<sup>1,3</sup>, and Heinz Koeppl<sup>1,3***</sup>, currently available as preprint on bioRxiv.
 
 1. Centre for Synthetic Biology, TU Darmstadt, Darmstadt 64283, Germany
