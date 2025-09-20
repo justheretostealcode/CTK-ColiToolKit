@@ -1,11 +1,9 @@
 numpy
 pandas
-Levenshtein
-sklearn.cluster
 pathlib
-tkinter
 matplotlib
 FlowCal
 scipy
 shutil
 warnings
+tqdm
